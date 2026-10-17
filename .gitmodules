@@ -1,174 +1,174 @@
 [submodule "WebSiteSWC"]
 path = WebSiteSWC
-url = ssh://git@github.com/CodeEditorLand/WebSiteSWC.git
+url = ssh://git@github.com/DependencyCodeEditorLand/WebSiteSWC.git
 ignore = all
 
 [submodule "Rustdoc"]
 path = Rustdoc
-url = ssh://git@github.com/CodeEditorLand/Rustdoc.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Rustdoc.git
 ignore = all
 
 [submodule "Register"]
 path = Register
-url = ssh://git@github.com/CodeEditorLand/Register.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Register.git
 ignore = all
 
 [submodule "Bins"]
 path = Bins
-url = ssh://git@github.com/CodeEditorLand/Bins.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Bins.git
 ignore = all
 
 [submodule "Vote"]
 path = Vote
-url = ssh://git@github.com/CodeEditorLand/Vote.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Vote.git
 ignore = all
 
 [submodule "Cli"]
 path = Cli
-url = ssh://git@github.com/CodeEditorLand/CLI.git
+url = ssh://git@github.com/DependencyCodeEditorLand/CLI.git
 ignore = all
 
 [submodule "SWCify"]
 path = SWCify
-url = ssh://git@github.com/CodeEditorLand/SWCify.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCify.git
 ignore = all
 
 [submodule "Ddt"]
 path = Ddt
-url = ssh://git@github.com/CodeEditorLand/Ddt.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Ddt.git
 ignore = all
 
 [submodule "PluginUtils"]
 path = PluginUtils
-url = ssh://git@github.com/CodeEditorLand/PluginUtils.git
+url = ssh://git@github.com/DependencyCodeEditorLand/PluginUtils.git
 ignore = all
 
 [submodule "Book"]
 path = Book
-url = ssh://git@github.com/CodeEditorLand/Book.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Book.git
 ignore = all
 
 [submodule "Logo"]
 path = Logo
-url = ssh://git@github.com/CodeEditorLand/Logo.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Logo.git
 ignore = all
 
 [submodule "Plugins"]
 path = Plugins
-url = ssh://git@github.com/CodeEditorLand/Plugins.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Plugins.git
 ignore = all
 
 [submodule "StringCache"]
 path = StringCache
-url = ssh://git@github.com/CodeEditorLand/StringCache.git
+url = ssh://git@github.com/DependencyCodeEditorLand/StringCache.git
 ignore = all
 
 [submodule "SWCPlayground"]
 path = SWCPlayground
-url = ssh://git@github.com/CodeEditorLand/SWCPlayground.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCPlayground.git
 ignore = all
 
 [submodule "PluginExamples"]
 path = PluginExamples
-url = ssh://git@github.com/CodeEditorLand/PluginExamples.git
+url = ssh://git@github.com/DependencyCodeEditorLand/PluginExamples.git
 ignore = all
 
 [submodule "Bot"]
 path = Bot
-url = ssh://git@github.com/CodeEditorLand/Bot.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Bot.git
 ignore = all
 
 [submodule "SWCLoader"]
 path = SWCLoader
-url = ssh://git@github.com/CodeEditorLand/SWCLoader.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCLoader.git
 ignore = all
 
 [submodule "NodeSWC"]
 path = NodeSWC
-url = ssh://git@github.com/CodeEditorLand/NodeSWC.git
+url = ssh://git@github.com/DependencyCodeEditorLand/NodeSWC.git
 ignore = all
 
 [submodule "DbgSWC"]
 path = DbgSWC
-url = ssh://git@github.com/CodeEditorLand/DbgSWC.git
+url = ssh://git@github.com/DependencyCodeEditorLand/DbgSWC.git
 ignore = all
 
 [submodule "SWC"]
 path = SWC
-url = ssh://git@github.com/CodeEditorLand/SWC.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWC.git
 ignore = all
 
 [submodule "Helpers"]
 path = Helpers
-url = ssh://git@github.com/CodeEditorLand/Helpers.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Helpers.git
 ignore = all
 
 [submodule "SWCDev"]
 path = SWCDev
-url = ssh://git@github.com/CodeEditorLand/SWCDev.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCDev.git
 ignore = all
 
 [submodule "CrawlCoreVersion"]
 path = CrawlCoreVersion
-url = ssh://git@github.com/CodeEditorLand/CrawlCoreVersion.git
+url = ssh://git@github.com/DependencyCodeEditorLand/CrawlCoreVersion.git
 ignore = all
 
 [submodule "SWCSponsorImages"]
 path = SWCSponsorImages
-url = ssh://git@github.com/CodeEditorLand/SWCSponsorImages.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCSponsorImages.git
 ignore = all
 
 [submodule "RawGreenData"]
 path = RawGreenData
-url = ssh://git@github.com/CodeEditorLand/RawGreenData.git
+url = ssh://git@github.com/DependencyCodeEditorLand/RawGreenData.git
 ignore = all
 
 [submodule "SWCEcosystemCi"]
 path = SWCEcosystemCi
-url = ssh://git@github.com/CodeEditorLand/SWCEcosystemCi.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCEcosystemCi.git
 ignore = all
 
 [submodule "SWCProject.github.io"]
 path = SWCProject.github.io
-url = ssh://git@github.com/CodeEditorLand/SWCProject.github.io.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCProject.github.io.git
 ignore = all
 
 [submodule "Pkgs"]
 path = Pkgs
-url = ssh://git@github.com/CodeEditorLand/Pkgs.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Pkgs.git
 ignore = all
 
 [submodule "LandSWCDevtools"]
 path = LandSWCDevtools
-url = ssh://git@github.com/CodeEditorLand/LandSWCDevtools.git
+url = ssh://git@github.com/DependencyCodeEditorLand/LandSWCDevtools.git
 ignore = all
 
 [submodule "SWCNode"]
 path = SWCNode
-url = ssh://git@github.com/CodeEditorLand/SWCNode.git
+url = ssh://git@github.com/DependencyCodeEditorLand/SWCNode.git
 ignore = all
 
 [submodule "ExtraBindings"]
 path = ExtraBindings
-url = ssh://git@github.com/CodeEditorLand/ExtraBindings.git
+url = ssh://git@github.com/DependencyCodeEditorLand/ExtraBindings.git
 ignore = all
 
 [submodule "RawData"]
 path = RawData
-url = ssh://git@github.com/CodeEditorLand/RawData.git
+url = ssh://git@github.com/DependencyCodeEditorLand/RawData.git
 ignore = all
 
 [submodule "TsParserTestRef"]
 path = TsParserTestRef
-url = ssh://git@github.com/CodeEditorLand/TsParserTestRef.git
+url = ssh://git@github.com/DependencyCodeEditorLand/TsParserTestRef.git
 ignore = all
 
 [submodule "Jest"]
 path = Jest
-url = ssh://git@github.com/CodeEditorLand/Jest.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Jest.git
 ignore = all
 
 [submodule "CLI"]
 path = CLI
-url = ssh://git@github.com/CodeEditorLand/CLI.git
+url = ssh://git@github.com/DependencyCodeEditorLand/CLI.git
 ignore = all
